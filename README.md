@@ -1,4 +1,6 @@
 # Odin_Landing_Page
+https://nmurari7.github.io/Odin_Landing_Page/
+
 ![image](https://github.com/NMurari7/Odin_Landing_Page/assets/70143030/99d4ca41-dbca-45fe-9eeb-9061e9f411fb)
 ![image](https://github.com/NMurari7/Odin_Landing_Page/assets/70143030/98cd304a-2667-4a96-aa00-139e8d5b76d0)
 
